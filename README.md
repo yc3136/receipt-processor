@@ -13,7 +13,7 @@ This project was developed as part of a technical assessment. It includes:
 
 ## Setup Instructions
 
-### Option 1: Run Locally (Python 3.10+)
+### Option 1: Run Locally
 
 1. **Clone this repo**  
    ```bash
